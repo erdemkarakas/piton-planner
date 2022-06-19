@@ -18,6 +18,12 @@ This project was bootstrapped with Create React App.
 Available Scripts
 In the project directory, you can run:
 
+First Craco install:
+
+```languageName
+npm install @craco/craco --legacy-peer-deps
+```
+
 To Npm Start:
 ```languageName
 npm start
