@@ -19,6 +19,12 @@ Available Scripts
 In the project directory, you can run:
 
 To Npm Start:
+```languageName
+npm start
+```
+
+
+To yarn Start:
 
 ```languageName
 yarn start
@@ -26,10 +32,7 @@ yarn start
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.
 
-To Npm Start:
-```languageName
-npm start
-```
+
 The page will reload if you make edits.
 You will also see any lint errors in the console.
 
