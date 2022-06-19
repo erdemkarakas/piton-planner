@@ -12,6 +12,8 @@
 
 # Piton Planner
 
+![](https://i.hizliresim.com/erta5fu.png)
+
 Getting Started with Create React App
 This project was bootstrapped with Create React App.
 
